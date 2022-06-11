@@ -22,3 +22,5 @@ Preguntes a respondre:
 -	Quins països acumulen més empreses en aquest rànquing.
 -	Quins sectors econòmics son més presents en aquest rànquing.
 -	Quins sectors econòmics s’han vist més afavorits per la pandèmia i la crisi.
+
+Per últim, visualitzar els vídeos explicatius de les visualitzacions on s'inclouen explicacions, interpretacions i reflexions de tot el projecte i el procés que ha comportat.
