@@ -1,11 +1,11 @@
 # Creació de la visualitzaci i lliurament del projecte
 Repositori per l'entrega de la pràctica 2 de l'assignatura Visualització de dades del màster universitari en Ciència de dades de la UOC.
 
-Màster Universitari en Ciència de dades de la UOC
-Assignatura: Visualització de dades
-Nom: Marc Vila Perramon
-Professor: Jaume Nualart Vilaplana
-Curs: 2021-2022
+- Màster Universitari en Ciència de dades de la UOC
+- Assignatura: Visualització de dades
+- Nom: Marc Vila Perramon
+- Professor: Jaume Nualart Vilaplana
+- Curs: 2021-2022
 
 Aquest repositori conté les dues visualitzacions realitzades per tal de respondre a les preguntes platenjades a la Pràctica 1:
 - Capital econòmic de les 100 empreses capdavanteres durant la pandèmia de la COVID-19 (Enllaç a Flourish).
