@@ -10,6 +10,7 @@ Repositori per l'entrega de la pràctica 2 de l'assignatura Visualització de da
 Aquest repositori conté les dues visualitzacions realitzades per tal de respondre a les preguntes platenjades a la Pràctica 1:
 - Capital econòmic de les 100 empreses capdavanteres durant la pandèmia de la COVID-19 (Enllaç a Flourish).
 - Sectors econòmics en els que més ha augmentat el capital durant la pandèmia de la COVID-19 (PNG).
+- Codi per la visualització amb ggplot2.R (R DOC amb el codi utilitzat en tot el procés per crear la segona visualització).
 
 Dades: El projecte ha estat realitzat en base al següent dataset: https://www.kaggle.com/datasets/parulpandey/market-capital-addition-during-pandemic?resource=download. S’anomena “Market capital addition during pandèmic”, ha estat extret de Kaggle, mostra una llista de les 100 empreses que van liderar el mercat de capitals durant la pandèmia de la COVID-19, i la seva evolució en aquest mercat. 
 
